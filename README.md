@@ -1,1 +1,4 @@
-# python_pracitice
+## My Python Practice Page
+
+* Step 1
+
